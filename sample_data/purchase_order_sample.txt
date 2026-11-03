@@ -1,0 +1,7 @@
+ABC ELECTRONICS
+PURCHASE ORDER
+PO Number: PO-101
+Currency: INR
+Item: Microcontroller
+Quantity: 100
+Unit Price: 500

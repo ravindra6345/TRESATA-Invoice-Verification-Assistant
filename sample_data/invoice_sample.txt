@@ -1,0 +1,9 @@
+ABC ELECTRONICS
+TAX INVOICE
+Invoice No: INV-101
+Purchase Order: PO-101
+Currency: INR
+Item: Microcontroller
+Quantity: 100
+Unit Price: 500
+Invoice Total: 50000

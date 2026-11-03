@@ -1,0 +1,12 @@
+{
+  "supplier": "ABC Electronics",
+  "purchase_order_number": "PO-101",
+  "currency": "INR",
+  "items": [
+    {
+      "description": "Microcontroller",
+      "quantity": 100,
+      "unit_price": 500
+    }
+  ]
+}
