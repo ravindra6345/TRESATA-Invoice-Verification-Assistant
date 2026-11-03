@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-101",
+  "purchase_order_number": "PO-101",
+  "status": "MATCH",
+  "checks": {
+    "supplier": "MATCH",
+    "purchase_order_number": "MATCH",
+    "item_count": "MATCH",
+    "line_items": "MATCH",
+    "invoice_total_arithmetic": "MATCH",
+    "po_total_vs_invoice": "MATCH"
+  },
+  "line_results": [
+    {
+      "line": 1,
+      "invoice_description": "Microcontroller",
+      "po_description": "Microcontroller",
+      "status": "MATCH",
+      "issues": []
+    }
+  ],
+  "issues": [],
+  "requires_human_review": false,
+  "note": "This prototype flags discrepancies; it does not approve or reject payment."
+}
